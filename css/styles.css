@@ -1,0 +1,12 @@
+#form{
+    display: none;
+}
+.hide-item{
+    margin-left: 400px;
+}
+.it{
+    font-size: 35px;
+}
+ul{
+    list-style: none;
+}
